@@ -11,4 +11,4 @@ In order to run this project, follow these steps:
 5) A server will start on the localhost. (Example: 127.0.1.5500) (Make sure you have flask installed)
 6) Now go to the BHP/client/index.html
 7) Open index.html and run it on localhost.
-8) Now your project is ready to run.
+8) Now your project is running.
